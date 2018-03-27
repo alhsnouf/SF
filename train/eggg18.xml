@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>eggg18.jpg</filename>
+	<path>/home/admin123/Desktop/Dataset/egg/finish/eggg18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1519</xmin>
+			<ymin>1490</ymin>
+			<xmax>1837</xmax>
+			<ymax>1848</ymax>
+		</bndbox>
+	</object>
+</annotation>

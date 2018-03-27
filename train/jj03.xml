@@ -1,0 +1,26 @@
+<annotation>
+	<folder>j_finish</folder>
+	<filename>jj03.jpg</filename>
+	<path>/home/admin123/Desktop/Dataset/juice/j_finish/jj03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3280</width>
+		<height>2464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>juice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1364</xmin>
+			<ymin>1056</ymin>
+			<xmax>1937</xmax>
+			<ymax>2322</ymax>
+		</bndbox>
+	</object>
+</annotation>
